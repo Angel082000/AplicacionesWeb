@@ -1,2 +1,2 @@
 # AplicacionesWeb
-Tareas de Programación de Aplicaciones Web
+Tareas de la asignatura de Programación de Aplicaciones Web
